@@ -51,7 +51,7 @@ export default function RestaurantPage() {
       <PageHero
         title="Restaurant & Dining"
         subtitle="A culinary journey through exquisite flavors and world-class hospitality."
-        image="/images/restaurant-hero.jpg"
+        image="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1920&q=80"
       />
 
       {Object.entries(categories).map(([category, items]) => {

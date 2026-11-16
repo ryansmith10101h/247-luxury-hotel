@@ -90,7 +90,7 @@ export default function ContactPage() {
       <PageHero
         title="Contact Us"
         subtitle="We'd love to hear from you. Reach out anytime — we're available 24/7."
-        image="/images/contact-hero.jpg"
+        image="https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=1920&q=80"
       />
 
       <Section>

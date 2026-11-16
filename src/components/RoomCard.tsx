@@ -63,11 +63,6 @@ export default function RoomCard({ room }: RoomCardProps) {
         {/* Price & CTA */}
         <div className="mt-5 flex items-end justify-between">
           <div>
-            {room.originalPrice && (
-              <span className="text-sm text-hotel-600 line-through mr-2">
-                {formatNaira(room.originalPrice)}
-              </span>
-            )}
             <span className="text-xl font-bold text-gold-400">
               {formatNaira(room.pricePerNight)}
             </span>

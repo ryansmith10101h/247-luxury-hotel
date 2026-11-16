@@ -42,7 +42,7 @@ export default function SpaPage() {
       <PageHero
         title="Spa & Wellness"
         subtitle="Surrender to serenity. Restore your body, calm your mind, and rejuvenate your spirit."
-        image="/images/spa-hero.jpg"
+        image="https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=1920&q=80"
       />
 
       {Object.entries(categories).map(([category, treatments]) => {

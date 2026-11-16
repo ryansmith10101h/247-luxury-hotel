@@ -29,7 +29,7 @@ export default function AmenitiesPage() {
       <PageHero
         title="Our Amenities"
         subtitle="World-class facilities and services designed for your comfort and enjoyment."
-        image="/images/amenities-hero.jpg"
+        image="https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&w=1920&q=80"
       />
 
       <Section>

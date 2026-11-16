@@ -49,7 +49,7 @@ export default function GalleryPage() {
       <PageHero
         title="Gallery"
         subtitle="Take a visual tour of our luxurious spaces, amenities, and experiences."
-        image="/images/gallery-hero.jpg"
+        image="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1920&q=80"
       />
 
       <Section>

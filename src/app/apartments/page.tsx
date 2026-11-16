@@ -23,7 +23,7 @@ export default function ApartmentsPage() {
       <PageHero
         title="Serviced Apartments"
         subtitle="Spacious, fully furnished apartments for extended stays and ultimate comfort."
-        image="/images/apartments-hero.jpg"
+        image="https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1920&q=80"
       />
 
       <Section>

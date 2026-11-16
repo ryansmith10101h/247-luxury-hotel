@@ -23,7 +23,7 @@ export default function RoomsPage() {
       <PageHero
         title="Rooms & Suites"
         subtitle="Elegantly appointed rooms designed for your ultimate comfort and relaxation."
-        image="/images/rooms-hero.jpg"
+        image="https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1920&q=80"
       />
 
       <Section>

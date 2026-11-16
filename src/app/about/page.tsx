@@ -40,7 +40,7 @@ export default function AboutPage() {
       <PageHero
         title="About Us"
         subtitle="Discover the story behind our commitment to luxury and exceptional hospitality."
-        image="/images/about-hero.jpg"
+        image="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1920&q=80"
       />
 
       {/* About Section - Two Column */}
@@ -48,7 +48,7 @@ export default function AboutPage() {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="relative h-[400px] lg:h-[500px] rounded-2xl overflow-hidden">
             <Image
-              src="/images/about-hotel.jpg"
+              src="https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80"
               alt={`About ${HOTEL_INFO.name}`}
               fill
               className="object-cover"
